@@ -1,0 +1,31 @@
+_repo: How-Marcus-Whitman-Saved-OregonFinal-Martyrdom_43369
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43369-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nixon, Oliver W. (Oliver Woodson)
+    alias: Nixon, Oliver Woodson
+    birthdate: 1825
+    deathdate: 1905
+    gutenberg_agent_id: '41440'
+    url: http://www.gutenberg.org/2009/agents/41440
+description: ''
+gutenberg_issued: '2013-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43369'
+  lccn: rc01000377
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Northwest, Pacific -- History'
+- !lcsh 'Whitman, Marcus, 1802-1847'
+- !lcsh 'Oregon Territory -- History'
+title: "How Marcus Whitman Saved Oregon\r\nA True Romance of Patriotic Heroism Christian\
+  \ Devotion and Final Martyrdom"
+url: http://www.gutenberg.org/ebooks/43369
